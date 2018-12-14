@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+.bannerAndFooter {
+    background-color: #773D24;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.main {
+    background-color: #B97E65;
+    height: 600px;
+}
+
+.record{
+    margin-top: 0;
+}
+
+p {
+    text-align: center;
+}
